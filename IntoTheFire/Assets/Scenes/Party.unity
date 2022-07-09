@@ -190,8 +190,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
+  m_sharedMaterial: {fileID: -1644689550638254889, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -372,7 +372,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: cc79ade56fe7a6d47b637615852d8eaa, type: 3}
     m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0
@@ -532,6 +532,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: CutOffFriend
+  loadDelay: 5
 --- !u!114 &394122330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -554,8 +555,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: No
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
+  m_sharedMaterial: {fileID: -1644689550638254889, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -688,8 +689,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Do I continue this friendship?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
+  m_sharedMaterial: {fileID: -1644689550638254889, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -815,6 +816,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: ContinueFriendship
+  loadDelay: 5
 --- !u!114 &1204952962
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -893,8 +895,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Yes
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
+  m_sharedMaterial: {fileID: -1644689550638254889, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
