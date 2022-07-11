@@ -157,8 +157,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 2.5435, y: 0.8347}
+  m_SizeDelta: {x: 198.2515, y: 91.5743}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5663006
 CanvasRenderer:
@@ -215,8 +215,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1420,9 +1420,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 5663007}
   sentences:
-  - 'Okay, I''m at the party. '
-  - Here's the next sentence.
-  - 'And now I have to make a choice. '
-  typingSpeed: 0.2
+  - Okay, I'm at the stupid party
+  - I don't WANT to be here but it's the right thing to do
+  - Maybe I do need to get out more
+  - ... Maybe this time will be different ...
+  - '"You made it! A little late albeit!"'
+  - '"Let me introduce you to some people!"'
+  - '"This is Jenna and David! They''ve been together for 10 years can you believe
+    it? This is Amanda, she just got promoted to VP at her company! Lucia here just
+    got married! Lee just completed his PhD and-"'
+  - Great what should I say, I'm unemployed, live with my fur babies and-
+  - '"Hey! Did you zone out?"'
+  - '"Sorry everyone, this tends to happen a lot... I heard it was a side effect
+    of the pills"'
+  - Did she just...
+  - Why are they all looking at me like that
+  - Why would she tell them that!
+  - I'm going to be sick
+  - I'm starting to shake
+  typingSpeed: 0.07
   continueButton: {fileID: 20545889}
   choiceButton: {fileID: 1735179916}
