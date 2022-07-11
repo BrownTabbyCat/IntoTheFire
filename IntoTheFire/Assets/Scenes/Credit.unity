@@ -360,7 +360,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -123}
+  m_AnchoredPosition: {x: 0, y: -148}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &378603378
@@ -639,7 +639,7 @@ MonoBehaviour:
 
 
     Special thanks
-    to Amy''s brother for the music. '
+    to Amy''s brother Stefan for the music. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
   m_sharedMaterial: {fileID: -1644689550638254889, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
