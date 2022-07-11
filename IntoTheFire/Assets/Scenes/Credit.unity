@@ -766,7 +766,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Amy Rozanna, \nJaviera Munita\nJessica Yoo"
+  m_text: 'Amy Rozanna
+
+    Javiera Munita
+
+    Jessica Yoo'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
   m_sharedMaterial: {fileID: -1644689550638254889, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
