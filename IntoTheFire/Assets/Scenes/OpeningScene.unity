@@ -560,7 +560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: NoReply
-  loadDelay: 5
+  loadDelay: 1
 --- !u!114 &674618833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1169,7 +1169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: RepliedBack
-  loadDelay: 5
+  loadDelay: 1
 --- !u!114 &1206058417
 MonoBehaviour:
   m_ObjectHideFlags: 0

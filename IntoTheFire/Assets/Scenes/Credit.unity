@@ -632,7 +632,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Special thanks to Amy''s brother for the music. '
+  m_text: 'Special thanks to Amy''s brother Stefan for the music. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
   m_sharedMaterial: {fileID: -1644689550638254889, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
