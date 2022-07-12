@@ -766,7 +766,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Amy Rozanna, \nJaviera Munita\nJessica Yoo"
+  m_text: 'Amy Rozanna
+
+    Javiera Munita
+
+    Jessica Yoo'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
   m_sharedMaterial: {fileID: -1644689550638254889, guid: cfe7bc7ff890fc44ba69a0f005985d1a, type: 2}
@@ -1052,7 +1056,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 8014323f496419345ad5ba1f4f176f00, type: 3}
+  m_Texture: {fileID: 2800000, guid: ea4d42d7150f649208efbf2c304c6397, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
